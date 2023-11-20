@@ -33,8 +33,8 @@
 ## Output:
 ![image](https://github.com/Asilsathik/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119476247/4b644c3f-cfe0-4d57-ac1f-2a75e07be6cf)
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
